@@ -48,6 +48,9 @@ It is recommended you use a physical Android device for this project.
     - check elements compoes with their props, states and data in Element tab
     - check how compoes are re-render -> performance by recording in Profiler tab
     - check networking on the Network tab
+- this repo has Github security alerts, cant fix atm
+  - for more info, check [here](https://medium.com/codebrace/what-is-npm-audit-fix-bf1d7efefff7)
+    
 
 ## :bell: **Contributing**
 
